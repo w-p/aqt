@@ -1,0 +1,3 @@
+[console_scripts]
+aqt = aqt.bin.cli:main
+
