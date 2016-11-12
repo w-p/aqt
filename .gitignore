@@ -1,1 +1,15 @@
-../.gitignore
+# python
+*.py[cod]
+*.egg-info/
+venv/
+dist/
+sdist/
+build/
+
+# go
+*.o
+*.a
+*.so
+_obj/
+_test/
+vendor/
